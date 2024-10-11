@@ -1,6 +1,6 @@
 # Central de Videojuegos en Unity
 
-Bienvenido a mi repositorio central donde encontrarás todos mis proyectos de videojuegos creados en Unity. Cada proyecto incluye capturas de pantalla y documentación detallada para que puedas conocer más sobre ellos.
+Bienvenido a mi repositorio central donde encontrarás todos mis proyectos de videojuegos creados en Unity. Cada proyecto incluye capturas de pantalla para que puedas conocer más sobre ellos.
 
 ## Tabla de Contenidos
 
