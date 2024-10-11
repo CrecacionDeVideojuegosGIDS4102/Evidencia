@@ -6,7 +6,6 @@ Bienvenido a mi repositorio central donde encontrarás todos mis proyectos de vi
 
 1. [Descripción General](#descripción-general)
 2. [Proyectos](#proyectos)
-3. [Capturas de Pantalla](#capturas-de-pantalla)
 
 ---
 
