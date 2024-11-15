@@ -1,8 +1,11 @@
-# Videojuegos en Unity
+# Creación de VideoJuegos
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ca9d90c7-7b36-44e4-9e51-688ef4cbd224" alt="Image" width="600">
+</p>
 
 Bienvenido a mi repositorio central donde encontrarás todos mis proyectos de videojuegos creados en Unity. Cada proyecto incluye capturas de pantalla para que puedas conocer más sobre ellos.
 
-## Tabla de Contenidos
+## Tabla de Contenido
 
 1. [Descripción General](#descripción-general)
 2. [Prototipos](#prototipos)
