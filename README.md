@@ -25,11 +25,11 @@ Aquí están los enlaces a los distintos repositorios de videojuegos:
 **[Prototipo 1](https://github.com/CrecacionDeVideojuegosGIDS4102/Prototipo1)**
 
 **[Prototipo 2](https://github.com/CrecacionDeVideojuegosGIDS4102/Prototipo2)**
- - [Evidencia en PDF Prototipo 2](https://drive.google.com/drive/u/0/folders/1dkGe1UfSMp489VgjzLhKAxrtlW7EmHnw)
+ - [Evidencia en PDF Prototipo 2](https://drive.google.com/file/d/1DFlx3yRqNCQM233JDh7TbiQazZIp7Ehh/view?usp=drive_link)
  - [Challenge 2](https://github.com/CrecacionDeVideojuegosGIDS4102/Challenge02)
    
 **[Prototipo 3](https://github.com/CrecacionDeVideojuegosGIDS4102/Prototipo3)**
- - [Evidencia en PDF Prototipo 3](https://drive.google.com/drive/u/0/folders/1mUy3Y4MhoM1q6QDQmlPnCu94Cqkk7iFo)
+ - [Evidencia en PDF Prototipo 3](https://drive.google.com/file/d/1Gx7SHjrtR5bFLFSZ-QseBgLv39tyr4tH/view?usp=drive_link)
    
 **[Prototipo 4](https://github.com/CrecacionDeVideojuegosGIDS4102/Prototipo4)**
  - [Evidencia en PDF Prototipo 4](https://drive.google.com/drive/u/0/folders/1FpoAJRzVmJecJrhxc9WY1xCTujzkfylN)
