@@ -32,7 +32,7 @@ Aquí están los enlaces a los distintos repositorios de videojuegos:
  - [Evidencia en PDF Prototipo 3](https://drive.google.com/file/d/1Gx7SHjrtR5bFLFSZ-QseBgLv39tyr4tH/view?usp=drive_link)
    
 **[Prototipo 4](https://github.com/CrecacionDeVideojuegosGIDS4102/Prototipo4)**
- - [Evidencia en PDF Prototipo 4](https://drive.google.com/drive/u/0/folders/1RhRujH88GnWG8KLwjonbRu7MoQO3d51U)
+ - [Evidencia en PDF Prototipo 4](https://drive.google.com/file/d/1Er66gqoVgTMo3XQVBC7lf3DPCUuF_ygt/view)
    
 **[Prototipo 5](https://github.com/CrecacionDeVideojuegosGIDS4102/Prototipo5)**
  - [Evidencia en PDF Prototipo 5](https://drive.google.com/drive/u/0/folders/1UAOvGlf-Bh93NEs6yvVkTVLDeheTasJ8)
