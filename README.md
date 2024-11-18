@@ -24,6 +24,7 @@ Aquí están los enlaces a los distintos repositorios de videojuegos:
    
 **[Prototipo 3](https://github.com/CrecacionDeVideojuegosGIDS4102/Prototipo3)**
  - [Evidencia en PDF Prototipo 3](https://drive.google.com/file/d/1Gx7SHjrtR5bFLFSZ-QseBgLv39tyr4tH/view?usp=drive_link)
+ - [Challenge 3](https://github.com/CrecacionDeVideojuegosGIDS4102/Challenge03)
    
 **[Prototipo 4](https://github.com/CrecacionDeVideojuegosGIDS4102/Prototipo4)**
  - [Evidencia en PDF Prototipo 4](https://drive.google.com/file/d/1Er66gqoVgTMo3XQVBC7lf3DPCUuF_ygt/view)
