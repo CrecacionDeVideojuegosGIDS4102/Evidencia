@@ -7,9 +7,8 @@ Bienvenido a mi repositorio central donde encontrarás todos mis proyectos de vi
 
 ## Tabla de Contenido
 
-1. [Descripción General](#descripción-general)
-2. [Prototipos](#prototipos)
-3. [Autores](#autores)
+1. [Prototipos](#prototipos)
+2. [Autores](#autores)
 
 ---
 
