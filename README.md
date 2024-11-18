@@ -9,12 +9,7 @@ Bienvenido a mi repositorio central donde encontrarás todos mis proyectos de vi
 
 1. [Descripción General](#descripción-general)
 2. [Prototipos](#prototipos)
-
----
-
-## Descripción General
-
-En este repositorio centralizado encontrarás una colección de videojuegos que he creado usando Unity. Cada proyecto tiene su propio repositorio con detalles sobre su desarrollo, mecánicas y cómo jugarlo.
+3. [Autores](#autores)
 
 ---
 
@@ -35,4 +30,7 @@ Aquí están los enlaces a los distintos repositorios de videojuegos:
  - [Evidencia en PDF Prototipo 4](https://drive.google.com/file/d/1Er66gqoVgTMo3XQVBC7lf3DPCUuF_ygt/view)
    
 **[Prototipo 5](https://github.com/CrecacionDeVideojuegosGIDS4102/Prototipo5)**
- - [Evidencia en PDF Prototipo 5](https://drive.google.com/drive/u/0/folders/1UAOvGlf-Bh93NEs6yvVkTVLDeheTasJ8)
+ - [Evidencia en PDF Prototipo 5](https://drive.google.com/file/d/1YVSCVwnb3YYDLhxVpIfpji1AO_ezivZI/view?usp=sharing)
+
+## Autores
+- Alma Yesenia Martínez Aldavera
